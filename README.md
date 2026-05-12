@@ -1,4 +1,4 @@
-# 📦 Projeto SQL - Treinamento de Banco de Dados
+# 📦 Projeto SQL - Desafio Intermediário
 
 Este projeto foi desenvolvido com o objetivo de aperfeiçoar conhecimentos em SQL Server, focando em modelagem de dados, criação de tabelas e consultas relacionais.
 
